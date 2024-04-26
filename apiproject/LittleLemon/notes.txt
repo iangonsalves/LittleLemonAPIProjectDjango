@@ -1,0 +1,41 @@
+Superuser Details:
+username : admin
+email : admin@littlelemon.com
+password : admin@123!
+
+Manager Details:
+username: duffyjoe
+email: duffyjoe@littlelemon.com
+password : manager@123
+
+username: travisbell
+email: travisbell@littlelemon.com
+password: manager@123
+
+
+Deliverycrew Details:
+username: devpatel
+email: devpatel@littlelemon.com
+password: crew@123
+
+username: crystallore
+email: crystallore@littlelemon.com
+password: crew@123
+
+username: jackadonis
+email: jackadonis@littlelemon.com
+password: crew@123
+
+username: racheldeen
+email: racheldeen@littlelemon.com
+password: crew@123
+
+
+Customer Details:
+username: jakubritz
+email: jakubritz@customer.com
+password: customer@123
+
+username: chrishuddle
+email: chrishuddle@customer.com
+password: customer@123
